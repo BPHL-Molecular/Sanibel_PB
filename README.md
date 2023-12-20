@@ -11,7 +11,7 @@ The Nextflow pipeline is used to analyze bacterial genome data from PacBio. It h
 
 
 ## Prerequisites
-Nextflow is needed. The detail of installation can be found in https://github.com/nextflow-io/nextflow. For HiPerGator users, Nextflow installation is not needed. 
+Nextflow is needed. The detail of installation can be found in https://github.com/nextflow-io/nextflow. For HiPerGator users, its installation is not needed. 
 
 Python3 is needed. The package "pandas" should be installed by ``` pip3 install pandas ``` if not included in your python3.
 
