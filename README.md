@@ -5,13 +5,7 @@ The Nextflow pipeline is used to analyze bacterial genome data from PacBio. It h
 
 
 
-
-![Sanibel overview](https://github.com/BPHL-Molecular/Sanibel/assets/16695937/cc657de2-47f5-4f9a-a19f-3934d018e071)
-
-
-
-
-
+![Picture2](https://github.com/BPHL-Molecular/Sanibel_PB/assets/16695937/99ca9277-5f79-45c3-8be5-bda09157c428)
 
 
 ## Prerequisites
