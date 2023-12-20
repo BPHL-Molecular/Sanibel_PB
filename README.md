@@ -19,7 +19,7 @@ Singularity/APPTAINER is needed. The detail of installation can be found in http
 
 SLURM is needed. For HiPerGator users, its installation is not needed.
 
-PacBio SMRTLINK stand-alone tools are needed. About how to install them, please see the file "How_to_install_smrtlink_tools.txt".
+PacBio SMRTLINK stand-alone tools are needed. About how to install them, please see the file "How_to_install_smrtlink_tools.txt" in the pipeline.
 
 ## Recommended conda environment installation
    ```bash
